@@ -3,9 +3,6 @@ import com.beust.kobalt.plugin.packaging.*
 import com.beust.kobalt.plugin.application.*
 import com.beust.kobalt.plugin.kotlin.*
 
-val repos = repos()
-
-
 val p = project {
 
     name = "gson-test"
